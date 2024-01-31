@@ -1,5 +1,6 @@
 # VIDEO CONVERTER
 
+install this first, this is installed in windows
 https://github.com/BtbN/FFmpeg-Builds/releases
 
 ```
